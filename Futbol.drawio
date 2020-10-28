@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T19:18:20.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.284" etag="s8p_bpHJIt4wAOy8GgPs" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T19:19:44.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.284" etag="Okce7sBMM1ZY2YPEbO64" version="13.8.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1754" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -172,8 +172,8 @@
             <mxPoint x="366.80590412805986" y="241.40604801760537" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xvMeL27prM5cAKEi2fe0-57" value="Partido_Finales" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="204" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="xvMeL27prM5cAKEi2fe0-57" value="Partido de Finales" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="204" y="310" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xvMeL27prM5cAKEi2fe0-58" value="Puntaje_Total" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="120" height="30" as="geometry" />
